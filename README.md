@@ -7,7 +7,8 @@
 >* **Ana Paula**,   
 >* **Julieta**,   
 >* **Julieta**,
->* **Nicole Halvorsen**,  
+>* **Nicole Halvorsen**,
+>* **Kevin Ortega**,
 
 Introducción 
 ----------  
