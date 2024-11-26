@@ -22,9 +22,7 @@ library(openxlsx)
 ```r
 path = ("D:/LFLS/Analyses/C_chilensis_EMN/Rasters_GEE_asc/M") 
 
-files <- list.files(path = path, pattern = ".asc$", full.names = TRUE)
-files  # 15
-
+files <- list.files(path = path, pattern = ".asc$", full.names = TRUE); files  
 mytable <- NULL
 
 for(i in 1:length(files)){
@@ -122,9 +120,7 @@ dim(DF)
 colnames(DF)
 rownames(DF)
 
-# La matriz DF es la matriz de correlacion anterior que tiene todos los valores de
-# correlacion. The function findCorrelation searches through a "correlation matrix" and returns a vector of integers corresponding to columns to remove to reduce pair-wise correlations.
-# Apply correlation filter at 0.8
+# La matriz DF es la matriz de correlacion anterior que tiene todos los valores de correlacion. The function findCorrelation searches through a "correlation matrix" and returns a vector of integers corresponding to columns to remove to reduce pair-wise correlations. Apply correlation filter at 0.8.
 
 DF.mat <- as.matrix(DF)
 is.matrix(DF.mat)
