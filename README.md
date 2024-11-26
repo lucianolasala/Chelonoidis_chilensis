@@ -23,7 +23,7 @@ Table of Contents
 - [Lista de variables](./Files/Variables.md)
 - [Links a código Google Earth Engine](./Files/Links_scripts.md)
 
-[3. Selección de variables ambientales](./Files/Environmental_variables_selection/Variables_selection.md) 
+[3. Selección de variables ambientales](./Files/Seleccion_variables.md) 
 
 [4. Área de calibración](./O_turicata/Calibration_area/Calibration_area.md)
 
