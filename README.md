@@ -17,10 +17,10 @@ Este repositorio contiene todo el código de R, JavaScript y detalles metodológ
 Table of Contents 
 ----------
 
-[1. Flujo de trabajo](./Flujo_trabajo.md)
+[1. Flujo de trabajo](./Files/Flujo_trabajo.md)
 
 [2. Procesamiento de datos geospaciales](./O_turicata/GEE_raster_processing/README.md)  
-- [Lista de variables](./O_turicata/GEE_raster_processing/Variables.md)
+- [Lista de variables](./Files/Variables.md)
 - [Links a código Google Earth Engine](./O_turicata/GEE_raster_processing/Links_scripts.md)
 
 [3. Selección de variables ambientales selection](./O_turicata/Environmental_variables_selection/Variables_selection.md) 
