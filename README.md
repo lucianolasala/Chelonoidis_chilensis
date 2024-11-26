@@ -16,67 +16,25 @@ Este repositorio contiene todo el código de R, JavaScript y detalles metodológ
 Table of Contents 
 ----------
 
-### General
+[1. Flujo de trabajo](./Flujo_trabajo.md)
 
-[1. Modeling workflow](./Flujo_trabajo.md)
+[2. Procesamiento de datos geospaciales](./O_turicata/GEE_raster_processing/README.md)  
+- [Lista de variables](./O_turicata/GEE_raster_processing/Variables.md)
+- [Links a código Google Earth Engine](./O_turicata/GEE_raster_processing/Links_scripts.md)
 
-#### <ins>*Ornithodoros turicata*</ins>
+[3. Selección de variables ambientales selection](./O_turicata/Environmental_variables_selection/Variables_selection.md) 
 
-[1. Geospatial data processing](./O_turicata/GEE_raster_processing/README.md)  
-- [Variables](./O_turicata/GEE_raster_processing/Variables.md)
-- [Links scripts Engine](./O_turicata/GEE_raster_processing/Links_scripts.md)
+[4. Área de calibración](./O_turicata/Calibration_area/Calibration_area.md)
 
-[2. Environmental variables selection](./O_turicata/Environmental_variables_selection/Variables_selection.md) 
+[5. Curado y procesamiento datos de ocurrencia](./O_turicata/Occurrence_data/Occurrence_data.md)
 
-[3. Calibration area](./O_turicata/Calibration_area/Calibration_area.md)
+[6. Calibración, evaluación, creación de modelo final y proyección ](./O_turicata/Model_cal_eval_proj/Model_cal_eval_proj.md)
 
-[4. Occurrence data preparation](./O_turicata/Occurrence_data/Occurrence_data.md)
+[7. Riesgo de extrapolación](./O_turicata/Extrapolation_risk/Extrapolation_risk.md)
 
-[5. Model calibration, evaluation, final model creation & model projection](./O_turicata/Model_cal_eval_proj/Model_cal_eval_proj.md)
+[8. Análisis final](./O_turicata/Final_analysis/Final_analysis.md)
 
-[6. Extrapolation risk analysis](./O_turicata/Extrapolation_risk/Extrapolation_risk.md)
+[9. Mapas de idoneidad](./O_turicata/Maps/Maps.md)
 
-[7. Final analysis](./O_turicata/Final_analysis/Final_analysis.md)
-
-[8. Suitability maps](./O_turicata/Maps/Maps.md)
-
-#### <ins>*Ornithodoros coriaceus*</ins> p
-
-[1. Geospatial data processing](./O_rostratus/GEE_raster_processing/README.md)  
-- [Variables](./O_rostratus/GEE_raster_processing/Variables.md)
-- [Links scripts Engine](./O_rostratus/GEE_raster_processing/Links_scripts.md)
-
-[2. Environmental variables selection](./O_rostratus/Environmental_variables_selection/Variables_selection.md) 
-
-[3. Calibration area](./O_rostratus/Calibration_area/Calibration_area.md)
-
-[4. Calibration area](./O_rostratus/Calibration_area/Calibration_area.md)
-
-[5. Occurrence data preparation](./O_rostratus/Occurrence_data/Occurrence_data.md)
-
-[6. Model calibration, evaluation & final model creation ](./O_rostratus/Model_cal_eval/Model_cal_eval_final.md)
-
-[7. Final analysis](./O_rostratus/Final_analysis/Final_analysis.md)
-
-[8. Suitability maps](./O_rostratus/Maps/Maps.md)
-
-#### <ins>*Ornithodoros rostratus*</ins>
-
-[1. Geospatial data processing](./O_rostratus/GEE_raster_processing/README.md)  
-- [Variables](./O_rostratus/GEE_raster_processing/Variables.md)
-- [Links scripts Engine](./O_rostratus/GEE_raster_processing/Links_scripts.md)
-
-[2. Environmental variables selection](./O_rostratus/Environmental_variables_selection/Variables_selection.md) 
-
-[3. Calibration area](./O_rostratus/Calibration_area/Calibration_area.md)
-
-[4. Calibration area](./O_rostratus/Calibration_area/Calibration_area.md)
-
-[5. Occurrence data preparation](./O_rostratus/Occurrence_data/Occurrence_data.md)
-
-[6. Model calibration, evaluation & final model creation ](./O_rostratus/Model_cal_eval/Model_cal_eval_final.md)
-
-[7. Final analysis](./O_rostratus/Final_analysis/Final_analysis.md)
-
-[8. Suitability maps](./O_rostratus/Maps/Maps.md)
+[10. Áreas protegidas: procesamiento](./O_turicata/Maps/Maps.md)
 
