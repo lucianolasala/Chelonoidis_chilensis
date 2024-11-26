@@ -1,8 +1,8 @@
 ### Google Earth Engine:  una plataforma de cómputo en la nube para análisis de datos de observación de la tierra y agua a escala global. 
 
-Clould computing using Google Earth Engine (https://earthengine.google.com/) is described for each of the variables included in model calibration and projection. For the present work, two different assets (i.e. calibration and projection areas) were defined using vector files (ESRI shapefiles). All the analyses were implemented using the Earth Engine API available in JavaScript. The entire set of original variables is described, of which after the correlation analysis only a subset remained for the modeling purposes.    
+En la tabla al pie se describen las caracetrísticas principales de las variables incluidas en durante la calibración y proyección de modelos, las cuales fueron procesadas en Google Earth Engine (https://earthengine.google.com/), utilizando de su JavaScript API. En el presente trabajo, se utilizaron dos archivos vectoriales diferentes (ESRI shapefiles procesados como "assets"), uno para el área de calibración y otro para el área de proyección del modelo. De las variables presentadas, solo un subset fue seleccionado para inslución en el modelado luego de realizar un análisis de correlación entre las mismas.   
 
-##### Table 1. Elevacion, clima y vegetación 
+##### Tabla. Elevacion, clima y vegetación 
 
 |Variable          |Banda           |Reductor      |Resol. espacial|Resol. temporal |GEE snippet<sup>*</sup> |   
 |------------------|-----------------|-------------| --------------|--------------- |----------------------- |
