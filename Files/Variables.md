@@ -7,14 +7,13 @@ En la tabla al pie se describen las caracetrísticas principales de las variable
 |Variable          |Banda           |Reductor      |Resol. espacial|Resol. temporal |GEE snippet<sup>*</sup> |   
 |------------------|-----------------|-------------| --------------|--------------- |----------------------- |
 |DEM               |elevation        |NA           |90 m           |NA              |CGIAR/SRTM90_V4         |
-|Vegetación ind.   |EVI              |Mean         |1 km           |2000-2020       |MODIS/006/MOD13A2       |    |Precip. global    |precipitationCal |Anual mean   |0.1 deg.       |2000-2021	      |NASA/GPM_L3/IMERG_V07   |    
+|Vegetación        |EVI              |Mean         |1 km           |2000-2020       |MODIS/006/MOD13A2       |    |Precipitación     |precipitationCal |Anual mean   |0.1 deg.       |2000-2021	      |NASA/GPM_L3/IMERG_V07   |    
 |Temp. diurna      |LST_Day_1km      |Mean         |1 km           |2000-2021       |MODIS/006/MOD11A1       |
 |                  |                 |Min.         |1 km           |2000-2021       |MODIS/006/MOD11A1       |
 |                  |                 |Max.         |1 km           |2000-2021       |MODIS/006/MOD11A1       |
 |Temp. nocturna    |LST_Night_1km    |Mean         |1 km           |2000-2021       |MODIS/006/MOD11A1       |
 |                  |                 |Min.         |1 km           |2000-2021       |MODIS/006/MOD11A1       |
 |                  |                 |Max.         |1 km           |2000-2021       |MODIS/006/MOD11A1       |
-|Prod. prim. bruta |GPP              |Mean         |500 m          |2002-2017       |CAS/IGSNRR/PML/V2       |
 |Intercept. dorsel |Ei               |Mean         |500 m          |2002-2017       |CAS/IGSNRR/PML/V2       |
 |Transp. suelo     |Es               |Mean         |500 m          |2002-2017       |CAS/IGSNRR/PML/V2       |
 |Transp. vegetación|Ec               |Mean         |500 m          |2002-2017       |CAS/IGSNRR/PML/V2       |

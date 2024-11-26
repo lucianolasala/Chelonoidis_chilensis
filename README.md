@@ -19,9 +19,9 @@ Table of Contents
 
 [1. Flujo de trabajo](./Files/Flujo_trabajo.md)
 
-[2. Procesamiento de datos geospaciales](./O_turicata/GEE_raster_processing/README.md)  
+[2. Procesamiento de datos geospaciales](./README.md)  
 - [Lista de variables](./Files/Variables.md)
-- [Links a código Google Earth Engine](./O_turicata/GEE_raster_processing/Links_scripts.md)
+- [Links a código Google Earth Engine](./Files/Links_scripts.md)
 
 [3. Selección de variables ambientales selection](./O_turicata/Environmental_variables_selection/Variables_selection.md) 
 
