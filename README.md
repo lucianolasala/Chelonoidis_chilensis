@@ -4,14 +4,11 @@
 <img align="right" width="100" height="53" src="https://github.com/lucianolasala/Chelonoidis_chilensis/blob/bc1613dc9414b5efafd455cd5f8cfa305441cc1b/Images/Gopherus%20aga.png">
 
 >* **Luciano F. La Sala**, Instituto de Ciencias Biológicas y Biomédicas del Sur (CONICET-UNS), Bahía Blanca, Argentina.  
->* **Nicolás Caruso**, Instituto de Ciencias Biológicas y Biomédicas del Sur (CONICET-UNS), Bahía Blanca, Argentina.
->* **M. Jimena Marfil**, Facultad de Ciencias Veterinarias, Universidad de Buenos Aires. 
 
-Introduction 
+
+Introducción 
 ----------  
-This repository contains the R scripts and details of methods employed for the development and transfer of ecological niche models (henceforth ENM) for *Ornithodoros* spp. ticks in contiguous Argentina and neighboring countries.
-This repository serves as a dynamic document for other parties interested on the ecology of Wild boar and it will be updated as additional data is gathered and new methodological methods are developed. 
-The code included in the repository is divided into a series of separate scripts that should be run sequentially.
+Este repositorio contiene todo el código de R, JavaScript y detalles metodológicos del trabajo  integrador  de la Diplomatura Universitaria en Geomática Aplicada del nstituto de Altos Estudios Espaciales Mario Gulich (CONAE/UNC). El código incluido se divide en secciones las cuales deben ser ejecutadas secuencialmente para reproducir el trabajo presentado. 
 
 A Maximum Entropy approach (https://biodiversityinformatics.amnh.org/open_source/maxent/) method was used inside the R programing environment (https://www.r-project.org/).   
 
