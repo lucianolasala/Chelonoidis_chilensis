@@ -1,7 +1,7 @@
 
 ## Conservación de Tortuga Chacheña *Chelonoidis chilensis* en Argentina.
 
-<img align="right" width="100" height="90" src="https://github.com/lucianolasala/Chelonoidis_chilensis/blob/bc1613dc9414b5efafd455cd5f8cfa305441cc1b/Images/Gopherus%20aga.png">
+<img align="right" width="100" height="53" src="https://github.com/lucianolasala/Chelonoidis_chilensis/blob/bc1613dc9414b5efafd455cd5f8cfa305441cc1b/Images/Gopherus%20aga.png">
 
 >* **Luciano F. La Sala**, Instituto de Ciencias Biológicas y Biomédicas del Sur (CONICET-UNS), Bahía Blanca, Argentina.  
 >* **Nicolás Caruso**, Instituto de Ciencias Biológicas y Biomédicas del Sur (CONICET-UNS), Bahía Blanca, Argentina.
