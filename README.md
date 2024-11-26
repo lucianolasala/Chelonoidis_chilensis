@@ -8,7 +8,7 @@
 >* **Julieta**,   
 >* **Julieta**,
 >* **Nicole Halvorsen**,
->* **Kevin Abner Ortega Quispe**,
+>* **Kevin A. Ortega**,
 
 Introducción 
 ----------  
