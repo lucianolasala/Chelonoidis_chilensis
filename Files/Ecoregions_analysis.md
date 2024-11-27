@@ -37,6 +37,7 @@ writeRaster(r_arg, "D:/CIC/Analisis/C_chilensis_EMN/Final_model_outputs/Final_mo
 
 #### Loading vector file for all ecoregions
 
+```r
 ecoregiones <- st_read("D:/CIC/Analisis/C_chilensis_EMN/Vectores/Ecoregions/Ecos_Argentina.shp")
 eco_names <- unique(ecoregiones$ECO_NAME); eco_names
 
@@ -80,3 +81,4 @@ write.csv(res_unique, "D:/CIC/Analisis/C_chilensis_EMN/Final_model_outputs/Ecos_
 write.xlsx(res_unique, file = "D:/CIC/Analisis/C_chilensis_EMN/Final_model_outputs/Ecos_summary_table.xls", sheetName = "Sheet1", 
            colNames = TRUE, rowNames = TRUE, append = FALSE)
 
+```
