@@ -22,7 +22,7 @@ Table of Contents
 [2. Procesamiento de datos geospaciales](./README.md)  
 - [Lista de variables](./Files/Variables.md)
 - [Links a código Google Earth Engine](./Files/Links_scripts.md)
-- [Áreas protegidas](./Files/Links_scripts.md)
+- [Áreas protegidas](./Files/Areas_protegidas.md)
 
 [3. Selección de variables ambientales](./Files/Seleccion_variables.md) 
 
