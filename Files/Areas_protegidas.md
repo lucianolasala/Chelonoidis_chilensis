@@ -33,13 +33,8 @@ plot(arg_pa$geometry)
 arg_pa <- wdpa_fetch("ARG", wait = TRUE, download_dir = tempdir())
 class(arg_pa)
 
-# Clean the data
-# Briefly, the cleaning steps include: excluding protected areas that are 
-# not yet implemented, excluding protected areas with limited conservation 
-# value, replacing missing data codes (e.g. "0") with missing data values 
-# (i.e. NA), replacing protected areas represented as points with circular 
-# protected areas that correspond to their reported extent, repairing any 
-# topological issues with the geometries, and erasing overlapping areas.
+# Clean the data: briefly, the cleaning steps include: excluding protected areas that are not yet implemented, excluding protected areas with limited conservation 
+value, replacing missing data codes (e.g. "0") with missing data values (i.e. NA), replacing protected areas represented as points with circular protected areas that correspond to their reported extent, repairing any topological issues with the geometries, and erasing overlapping areas.
 
 arg_pa_clean <- wdpar::wdpa_clean(arg_pa, erase_overlaps = FALSE)
 class(arg_pa_clean)
