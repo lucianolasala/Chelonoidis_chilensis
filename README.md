@@ -22,6 +22,7 @@ Table of Contents
 [2. Procesamiento de datos geospaciales](./README.md)  
 - [Lista de variables](./Files/Variables.md)
 - [Links a código Google Earth Engine](./Files/Links_scripts.md)
+- [Áreas protegidas](./Files/Links_scripts.md)
 
 [3. Selección de variables ambientales](./Files/Seleccion_variables.md) 
 
@@ -35,7 +36,9 @@ Table of Contents
 
 [8. Análisis final](./O_turicata/Final_analysis/Final_analysis.md)
 
-[9. Mapas de idoneidad](./O_turicata/Maps/Maps.md)
+[9. Idoneidad ecorregional](./Files/Ecoregions_analysis.md)
 
-[10. Áreas protegidas: procesamiento](./O_turicata/Maps/Maps.md)
+[10. Mapas de idoneidad](./O_turicata/Maps/Maps.md)
+
+[11. Áreas protegidas: procesamiento](./O_turicata/Maps/Maps.md)
 
