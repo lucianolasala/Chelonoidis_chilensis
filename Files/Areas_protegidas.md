@@ -35,7 +35,7 @@ class(arg_pa)
 ```
 
 #### Cleaning process 
-##### Briefly, the cleaning steps include: excluding protected areas that are not yet implemented, excluding protected areas with limited conservation value, replacing missing data codes (e.g. "0") with missing data values (i.e. NA), replacing protected areas represented as points with circular protected areas that correspond to their reported extent, repairing any topological issues with the geometries, and erasing overlapping areas.
+###### Briefly, the cleaning steps include: excluding protected areas that are not yet implemented, excluding protected areas with limited conservation value, replacing missing data codes (e.g. "0") with missing data values (i.e. NA), replacing protected areas represented as points with circular protected areas that correspond to their reported extent, repairing any topological issues with the geometries, and erasing overlapping areas.
 
 ```r
 arg_pa_clean <- wdpar::wdpa_clean(arg_pa, erase_overlaps = FALSE)
