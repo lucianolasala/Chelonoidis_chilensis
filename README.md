@@ -39,5 +39,3 @@ Este repositorio contiene todo el código de R, JavaScript y detalles metodológ
 
 [10. Mapas de idoneidad](./O_turicata/Maps/Maps.md)
 
-[11. Áreas protegidas: procesamiento](./O_turicata/Maps/Maps.md)
-
