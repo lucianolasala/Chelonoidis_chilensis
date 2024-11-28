@@ -5,7 +5,7 @@
 
 >* **Luciano F. La Sala**, Instituto de Ciencias Biológicas y Biomédicas del Sur (CONICET-UNS), Bahía Blanca, Argentina.  
 >* **Ana Paula**,   
->* **Julieta**,   
+>* **Eugenia Wright**, Servicio Geológico Minero Argentino (SEGEMAR) y Facultad de Filosofia y Letras, Universidad de Buenos Aires (FFyL-UBA), Argentina.  
 >* **Julieta**,
 >* **Nicole Halvorsen**,
 >* **Kevin A. Ortega**,
