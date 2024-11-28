@@ -11,10 +11,9 @@
 >* **Kevin A. Ortega**,
 
 ### Introducción 
-----------  
 Este repositorio contiene todo el código de R, JavaScript y detalles metodológicos del trabajo  integrador  de la Diplomatura Universitaria en Geomática Aplicada del Instituto de Altos Estudios Espaciales Mario Gulich (CONAE/UNC). El código incluido se divide en secciones las cuales deben ser ejecutadas secuencialmente para reproducir el trabajo presentado. 
 
-Tabla de Contenidos 
+### Tabla de Contenidos 
 ----------
 
 [1. Flujo de trabajo](./Files/Flujo_trabajo.md)
