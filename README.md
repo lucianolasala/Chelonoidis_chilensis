@@ -4,11 +4,6 @@
 <img align="right" width="100" height="53" src="https://github.com/lucianolasala/Chelonoidis_chilensis/blob/bc1613dc9414b5efafd455cd5f8cfa305441cc1b/Images/Gopherus%20aga.png">
 
 >* **Luciano F. La Sala**, Instituto de Ciencias Biológicas y Biomédicas del Sur (CONICET-UNS), Bahía Blanca, Argentina.  
->* **Ana Paula**,   
->* **Eugenia Wright**, Servicio Geológico Minero Argentino (SEGEMAR) y Facultad de Filosofia y Letras, Universidad de Buenos Aires (FFyL-UBA), Argentina.  
->* **Julieta**,
->* **Nicole Halvorsen**,
->* **Kevin A. Ortega**,
 
 ### Introducción 
 Este repositorio contiene todo el código de R, JavaScript y detalles metodológicos del trabajo  integrador  de la Diplomatura Universitaria en Geomática Aplicada del Instituto de Altos Estudios Espaciales Mario Gulich (CONAE/UNC). El código incluido se divide en secciones las cuales deben ser ejecutadas secuencialmente para reproducir el trabajo presentado. 
